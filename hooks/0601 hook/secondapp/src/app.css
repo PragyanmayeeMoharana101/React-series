@@ -1,0 +1,9 @@
+#root {
+    text-align: center;
+}
+button{
+    padding: 5px 10px;
+    margin: 0 20px;
+    color: #fff;
+    background-color: #000;
+}
