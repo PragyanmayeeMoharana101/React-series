@@ -1,0 +1,23 @@
+.foodCard{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    margin: 30px 10px;
+    padding: 10px;
+    text-align: center;
+    width: 310px;
+    border-radius: 12px;
+    height: 360px;
+}
+.foodImage{
+    border-radius: 10px;
+}
+.foodButton {
+    padding: 5px 7px;
+    color: white;
+    background-color: black;
+    border: none;
+    outline: none;
+}
+.foodTitle{
+    font-size: 20px;
+    color: grey;
+}
