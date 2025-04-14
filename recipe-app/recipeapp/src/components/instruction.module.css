@@ -1,0 +1,11 @@
+.title{
+    border-bottom: 1px solid black ;
+}
+.instruction{
+    width: 500px;
+    border: 1px solid black;
+    padding: 10px 20px;
+    border-radius: 12px;
+    height: 340px;
+    overflow: scroll;
+}
