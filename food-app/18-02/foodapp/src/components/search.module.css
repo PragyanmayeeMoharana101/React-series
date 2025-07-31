@@ -1,0 +1,13 @@
+.searchContainer {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.searchItem{
+    width: 300px;
+    font-size: 20px;
+    text-align: center;
+    outline: 0;
+    border: 0;
+    border-bottom: 1px solid black;
+}
